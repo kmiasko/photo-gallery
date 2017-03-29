@@ -1,5 +1,8 @@
-## react-redux-cordova-boilerplate
-A boilerplate for a Redux-React Cordova application using Babel, Webpack and Gulp
+## Aplikacja mobilna - galeria zdjec w cordova + react + redux:
+* robienie zdjec (z wykorzystaniem aparatu),
+* listing zdjec (kafelki) w ramach kategorii albo wszystkie,
+* usuwanie zdjec pojedyncze,
+* zaznaczanie zdjec i usuwanie grupowe,
 
 ### Development
 * Run `npm install`

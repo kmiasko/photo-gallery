@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+allowEdit	/home/kmiasko/workdir/photo-gallery/src/utils/camera-utils.js	/^  quality: 100,$/;"	p	class:const
+appName	/home/kmiasko/workdir/photo-gallery/scripts/config.js	/^const config = {$/;"	p	class:const
+cordova	/home/kmiasko/workdir/photo-gallery/scripts/config.js	/^  appName: 'PhotoGallery',$/;"	p	class:const
+entry	/home/kmiasko/workdir/photo-gallery/scripts/webpack.config.js	/^  const config = {$/;"	p	class:const
+output	/home/kmiasko/workdir/photo-gallery/scripts/webpack.config.js	/^    entry: entry,$/;"	p	class:const
+quality	/home/kmiasko/workdir/photo-gallery/src/utils/camera-utils.js	/^const options = {$/;"	p	class:const
+saveToPhotoAlbum	/home/kmiasko/workdir/photo-gallery/src/utils/camera-utils.js	/^  allowEdit: false,$/;"	p	class:const
