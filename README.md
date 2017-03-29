@@ -1,6 +1,6 @@
 ## Aplikacja mobilna - galeria zdjec w cordova + react + redux:
 * robienie zdjec (z wykorzystaniem aparatu),
-* listing zdjec (kafelki) w ramach kategorii albo wszystkie,
+* listing zdjec (kafelki),
 * usuwanie zdjec pojedyncze,
 * zaznaczanie zdjec i usuwanie grupowe,
 
