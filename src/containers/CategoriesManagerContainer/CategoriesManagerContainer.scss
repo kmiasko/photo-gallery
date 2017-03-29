@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+.CategoryInputRow {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.CategoryActions {
+  justify-content: center;
+}
+
+.CategoryError {
+  text-align: center;
+  flex: 1 1 100%;
+  color: rgb(239, 83, 80);
+}
